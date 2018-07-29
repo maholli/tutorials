@@ -135,7 +135,7 @@ The thickness of the stencil and the size of the openings are specific for each 
 
 27. Carefully remove the contact-paper from the topside and continue cleaning with isopropyl alcohol. A freshly cut stencil that's been (mostly) cleaned is pictured above. 
 
-### Congratulations! You made your first stencil. I'll work on adding a section to this write-up detailing how I like to stencil solderpaste onto a board. Here's an example of what that'd look like:
+### Congratulations! You made your first stencil. [Check out my tutorial on SMD soldering](https://github.com/maholli/tutorials/tree/master/soldering%20SMD) for more detail on how to use your new fancy stencil!
 
 <p align="middle">
   <img width="700" src="https://github.com/maholli/lab64/blob/master/pcb/stencils/images/16.jpg">
