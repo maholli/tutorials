@@ -1,2 +1,2 @@
 # tutorials
-collection of personal tutorials I've made for general electronics prototyping
+collection of my short write-ups for general electronics prototyping
