@@ -10,8 +10,8 @@ A brief primer on surface mount soldering to aid in lab64 SMD soldering exercise
 [What is solder?](#what-is-solder)<br>
 
 ## What is SMD Soldering
-<br><img width="800" src="https://github.com/maholli/tutorials/blob/master/soldering SMD/images/9bbb.jpg"><br>
+<!-- <br><img width="800" src="https://github.com/maholli/tutorials/blob/master/soldering SMD/images/9bbb.jpg"><br> -->
 
 Every aspect of surface mount soldering was engineered to make large-scale PCB assembly faster and more reliable. With proper setup and execution, everyone can enjoy the benefits of SMD soldering on their projects!
 
-1. **Solder Paste** SMD soldering uses solder paste to form the electrical connections. Solder paste is almost like *powdered* metal solder suspended inside a high-viscosity flux. <br><img width="700" src="https://github.com/maholli/tutorials/blob/master/soldering SMD/images/1.jpg"><br>image courtesy of.. <br> 
+<!-- 1. **Solder Paste** SMD soldering uses solder paste to form the electrical connections. Solder paste is almost like *powdered* metal solder suspended inside a high-viscosity flux. <br><img width="700" src="https://github.com/maholli/tutorials/blob/master/soldering SMD/images/9bbb.jpg"><br>image courtesy of.. <br>  -->
