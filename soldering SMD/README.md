@@ -1,5 +1,5 @@
 # Soldering Surface Mount Devices (SMD)
-
+### :exclamation: Attend a lab64 workshop and looking for more info? [lab64](https://maker.stanford.edu/) | [metro mini](https://github.com/gabebuckmaster/Stanford-EE-Metro-Mini) | [radio kit](https://github.com/gabebuckmaster/Si4825-AM-FM-Radio-Kit-TH) :exclamation:<br>
 A brief primer on surface mount soldering to aid in lab64 SMD soldering exercises.
 
 ## Table of Contents  
