@@ -1,4 +1,6 @@
 # Soldering 101
+### :exclamation: Attend a lab64 workshop and looking for more info? [lab64](https://maker.stanford.edu/) | [metro mini](https://github.com/gabebuckmaster/Stanford-EE-Metro-Mini) | [radio kit](https://github.com/gabebuckmaster/Si4825-AM-FM-Radio-Kit-TH) :exclamation:<br>
+_________
 Soldering is one of those skills that can be easy to learn, but hard to master. It's inherently simple, but unfortunately, **MANY** people find it difficult to solder and continue to struggle throughout their careers.
 ### With the amount of time EE and CS students will likely spend soldering, spending 5 minutes to read through this could save you countless frustrated hours at the bench. 
 
@@ -74,3 +76,13 @@ Soldering is (generically) considered the act of joining things together using m
 	* SAC305 melts at about 220C
 
 > Special thanks to [Androkavo](https://www.youtube.com/watch?v=tfIwHuGzUEk) for his high-quality soldering footage used in this write-up.
+
+# To Do
+Sections I plan on including...
+* Rework and repair (this is the most requested and will be its own write up)
+	* BGA packages also deserve a thorough discussion 
+* How to solder wires together
+* Getting connectors soldered in straight
+* How (and why) to strain relief
+* Tips/tricks for different packages (QFP, QFN, SOIC, TSOP)
+
