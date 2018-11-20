@@ -22,4 +22,5 @@ Digi-Key maintains a free KiCAD parts library! The library is far from comprehen
 If you're using a nightly build of KiCAD (I've been using [kicad-r11831.c539d6e0b-x86_64](http://downloads.kicad-pcb.org/windows/nightly/) with good success), it will let you install external plugins for Pcbnew. Here are some repos w/ plugins I found useful:
 * [https://github.com/easyw/kicad-action-plugins](https://github.com/easyw/kicad-action-plugins) super helpful for moving things between layers
 * [https://github.com/openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) beautiful HTML BOM generation tool. 
+
 Make sure to move the plugins to the following directory on your machine: C:ReplaceThisWithYourKicadInstallPath\KiCad\share\kicad\scripting\plugins
