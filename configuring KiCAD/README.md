@@ -17,3 +17,9 @@ Luckily, after accepting the above, KiCAD library managment is fairly painless.
 Digi-Key maintains a free KiCAD parts library! The library is far from comprehensive, but it's a nice start to building a respectible parts list to choose from. 
 1. Start by copying the Digi-Key repo locally: [https://github.com/digikey/digikey-kicad-library](https://github.com/digikey/digikey-kicad-library). (green "clone or download" button, then download zip)
 2. 
+
+## Useful Plugins
+If you're using a nightly build of KiCAD, it will let you install external plugins for Pcbnew. Here are some repos w/ plugins I found useful:
+* [https://github.com/easyw/kicad-action-plugins](https://github.com/easyw/kicad-action-plugins)
+
+Make sure to move the plugins to the following directory on your machine: C:ReplaceThisWithYourKicadInstallPath\KiCad\share\kicad\scripting\plugins
