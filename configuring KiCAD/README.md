@@ -19,7 +19,7 @@ Digi-Key maintains a free KiCAD parts library! The library is far from comprehen
 2. 
 
 ## Useful Plugins
-If you're using a nightly build of KiCAD, it will let you install external plugins for Pcbnew. Here are some repos w/ plugins I found useful:
+If you're using a nightly build of KiCAD (I've been using [kicad-r11831.c539d6e0b-x86_64](http://downloads.kicad-pcb.org/windows/nightly/) with good success), it will let you install external plugins for Pcbnew. Here are some repos w/ plugins I found useful:
 * [https://github.com/easyw/kicad-action-plugins](https://github.com/easyw/kicad-action-plugins)
 
 Make sure to move the plugins to the following directory on your machine: C:ReplaceThisWithYourKicadInstallPath\KiCad\share\kicad\scripting\plugins
