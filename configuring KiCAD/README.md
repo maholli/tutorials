@@ -23,6 +23,7 @@ If you're using a nightly build of KiCAD (I've been using [kicad-r11831.c539d6e0
 * [https://github.com/easyw/kicad-action-plugins](https://github.com/easyw/kicad-action-plugins) super helpful for moving things between layers
 * [https://github.com/openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) beautiful HTML BOM generation tool. 
 
-Make sure to move the plugins to the following directory on your machine: C:ReplaceThisWithYourKicadInstallPath\KiCad\share\kicad\scripting\plugins
+Make sure to move the plugins to the following directory on your machine: 
+`C:ReplaceThisWithYourKicadInstallPath\KiCad\share\kicad\scripting\plugins`
 
-For Mac that usually looks like...? /Library/Application Support/kicad/scripting/plugins
+For Mac that usually looks like...? `/Library/Application Support/kicad/scripting/plugins`
